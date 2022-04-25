@@ -1,0 +1,90 @@
+{
+    "pid": "docInfo",
+    "hide": {
+        "wps": true,
+        "shareUsb": true,
+        "wlanmesh": true,
+        "liveTv": true,
+        "faxSet": true,
+        "dectRdio": true,
+        "wGuest": true,
+        "dectMoniEx": true,
+        "rss": true,
+        "mobile": true,
+        "wKey": true,
+        "ssoSet": true,
+        "dectMail": true,
+        "dectMoni": true,
+        "chan": true,
+        "liveImg": true
+    },
+    "time": [],
+    "data": {
+        "channelDs": {
+            "docsis31": [{
+                    "powerLevel": "11.8",
+                    "type": "4K",
+                    "channel": 1,
+                    "channelID": 0,
+                    "frequency": "151 - 325"
+                }
+            ],
+            "docsis30": [{
+                    "type": "256QAM",
+                    "corrErrors": 2966,
+                    "mse": "-40.6",
+                    "powerLevel": "13.7",
+                    "channel": 1,
+                    "nonCorrErrors": 0,
+                    "latency": 0.32,
+                    "channelID": 2,
+                    "frequency": "130"
+                }
+            ]
+        },
+        "oem": "avm",
+        "readyState": "ready",
+        "channelUs": {
+            "docsis31": [{
+                    "powerLevel": "38.0",
+                    "type": "4K",
+                    "channel": 1,
+                    "multiplex": "OFDMA",
+                    "channelID": 0,
+                    "frequency": "30 - 65"
+                }
+            ],
+            "docsis30": [{
+                    "powerLevel": "41.0",
+                    "type": "64QAM",
+                    "channel": 1,
+                    "multiplex": "ATDMA",
+                    "channelID": 6,
+                    "frequency": "45"
+                }, {
+                    "powerLevel": "41.0",
+                    "type": "64QAM",
+                    "channel": 2,
+                    "multiplex": "ATDMA",
+                    "channelID": 8,
+                    "frequency": "31"
+                }, {
+                    "powerLevel": "41.0",
+                    "type": "64QAM",
+                    "channel": 3,
+                    "multiplex": "ATDMA",
+                    "channelID": 7,
+                    "frequency": "37"
+                }, {
+                    "powerLevel": "43.0",
+                    "type": "64QAM",
+                    "channel": 4,
+                    "multiplex": "ATDMA",
+                    "channelID": 5,
+                    "frequency": "51"
+                }
+            ]
+        }
+    },
+    "sid": "9610000fad630000"
+}
